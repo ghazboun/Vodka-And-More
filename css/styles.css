@@ -12,7 +12,11 @@ h1{
   height: 50px;
   border-radius: 0%;
   overflow: hidden;
-  margin-top: -6px;
+}
+
+.owner{
+  width: 550px;
+  margin-bottom:30px;
 }
 
 .row{
@@ -26,6 +30,8 @@ h1{
 
 .finalrow{
   margin: 0 10%;
+  background-color: #790D24;
+   margin-bottom:50px;
 }
 .hr {
   margin: 50px auto;
@@ -40,4 +46,8 @@ h1{
 .productimg{
   height: 300px;
   width: 200px;
+}
+
+.productsdiv{
+  margin: 0 10%;
 }
